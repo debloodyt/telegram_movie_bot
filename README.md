@@ -26,7 +26,7 @@
 ##  Установка
 
 1. Клонировать репозиторий:
-   git clone <https://github.com/debloodyt/telegram_bot_movies.git>
+   git clone https://github.com/debloodyt/telegram_movie_bot.git
    cd telegram_movie_bot
 
 2. Создать и активировать виртуальное окружение:
